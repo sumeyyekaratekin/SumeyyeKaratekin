@@ -13,8 +13,7 @@ Bu platformlar üzerinden benimle iletişime geçebilirsin!
   <a href="https://www.linkedin.com/in/sumeyyekaratekin/" target="_blank" rel="nofollow"><img alt="Sümeyye's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sumeyyekaratekin96@gmail.com" target="_blank" rel="nofollow"><img alt="Sümeyye's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://sumeyyekaratekin.medium.com/" target="_blank" rel="nofollow"><img alt="Sümeyye's Medium Blog Address" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://instagram.com/sumeyyekaratekin" target="_blank" rel="nofollow"><img alt="Sümeyye's Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
 
 </p>
 
